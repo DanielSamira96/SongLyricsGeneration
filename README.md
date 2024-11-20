@@ -1,6 +1,4 @@
-### Description for the GitHub Repository
-
-**Song Lyrics Generation with RNNs and MIDI Integration**
+##Song Lyrics Generation with RNNs and MIDI Integration##
 
 This repository presents a deep learning project focused on generating song lyrics aligned with musical melodies. By leveraging recurrent neural networks (RNNs) and integrating features from MIDI files, the model produces lyrics that are both contextually and thematically coherent. This project explores the intersection of music and natural language processing to enhance creative AI applications.
 
